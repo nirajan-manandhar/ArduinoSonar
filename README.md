@@ -2,9 +2,9 @@
 Making a Sonar system, controlled with an Arduino
 
 Components: 
--Arduino Uno
--Ultrasonic Sensor (Ultrasonic Sensor HC-SR04)
--Stepper Motor (28BYJ-48)
+1. Arduino Uno
+2. Ultrasonic Sensor (Ultrasonic Sensor HC-SR04)
+3. Stepper Motor (28BYJ-48)
 
 There are two files.
 One Processing file, and one Arudino file. They communicate through serial communication.
